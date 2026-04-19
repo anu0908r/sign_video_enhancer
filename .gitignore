@@ -1,0 +1,7 @@
+.venv/
+venv/
+.zencoder/
+.zenflow/
+__pycache__/
+*.pyc
+output1/
